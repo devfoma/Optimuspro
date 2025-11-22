@@ -39,7 +39,7 @@ export default function Hero() {
 
           <div className="max-w-full md:max-w-[800px] mt-6 md:mt-8 md:text-center md:mx-auto">
             <p className="text-gray-200 text-base sm:text-lg md:text-xl font-light leading-relaxed">
-              Join us—the <b className="text-white font-semibold">Crazy Ones,</b> the{" "}
+              Join us— the <b className="text-white font-semibold">Crazy Ones,</b> the{" "}
               <b className="text-white font-semibold">Optimists</b>, the{" "}
               <b className="text-white font-semibold">Misfits</b>, the{" "}
               <b className="text-white font-semibold">Underdogs</b> and the Rebels, and together let's push the{" "}
